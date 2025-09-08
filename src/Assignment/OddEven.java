@@ -1,4 +1,4 @@
-package Prectice.Assignment;
+package Assignment;
 
 import java.util.Scanner;
 
